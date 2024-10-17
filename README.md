@@ -6,7 +6,7 @@ This project will show you how to analyze the music store database. I have exami
 Database and Tools
 MySQL
 Concepts used for this Project:
-Aggregation functions like sum, average, count
+Aggregation functions like sum, average, count                                                                                                                              
 Window functions
 Sub-queries
 Joins: Self join, Right join, Inner join
